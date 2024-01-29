@@ -1,1 +1,2 @@
-web: ./goreleaser-test-2
+web: ./goreleaser-test-2 $PORT
+
